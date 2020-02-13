@@ -21,7 +21,7 @@ export default class M4 extends React.Component {
           berada di televisi.
         </Text>
         <Text style={styles.text}>
-          4.  Dram film, yaitu drama yang biasanya menggunakan layar lebar sebagai medianya.
+          4.  Drama film, yaitu drama yang biasanya menggunakan layar lebar sebagai medianya.
         </Text>
         <Text style={styles.text}>
           5.  Drama wayang, yaitu drama yang biasanya diiringi dengan pagelaran wayang.
